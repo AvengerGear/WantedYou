@@ -19,3 +19,7 @@
 #### 大數據開發人員（BigData Developer）
 * 熟悉並熱愛資料挖掘（Data Mining）或機器學習（Machine Learning）等技術
 * 熟悉並懂得使用自己擅長程式語言，進行資料分析領域的開發，例如：R 語言、Python 或 Scala。
+
+## 快來加入吧！等你來信！
+
+service@avengergear.com

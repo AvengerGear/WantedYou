@@ -1,4 +1,4 @@
-# 快拔出這把屬於你的劍吧！
+# 拔劍吧！英雄！
 
 ![Wanted You](https://raw.githubusercontent.com/AvengerGear/WantedYou/master/banner.png)
 
@@ -6,7 +6,7 @@
 
 ## 我們現在需要
 
-因應客戶面對的問題，英雄團隊目前需要三類人才：
+因應客戶面對的問題，新的英雄團隊目前需要三類人才：
 
 * 資料庫維運工程師（Database Administrator）
   * 需熟悉 MS-SQL、RDBMS 等技術
